@@ -1,0 +1,25 @@
+.cajita{
+	margin: 1%;
+	width: 31%;
+	padding: 3%;
+	border-style: solid;
+    border-color: #F2F2F2;
+}
+#img-flechita{
+	width: 2%;
+}
+.verticalLine {
+    border-left: .2em solid white;
+}
+.hr-footer{
+	border-color: white;
+	border-width: .2em;
+}
+.sub{
+	height: 100px;
+}
+@media  screen and (max-width: 968px){
+	p, .letra-xs {
+		font-size: 70%;
+	}
+}

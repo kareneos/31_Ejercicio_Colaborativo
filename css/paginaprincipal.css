@@ -1,0 +1,206 @@
+.viejo {
+	background-image: url(../img/img_grid_principal.jpg);
+	background-size: cover;
+	height: 40em;
+	margin-bottom: 10%;
+}
+
+.viejo2 {
+	background-image: url(../img/img_grid_secundario.jpg);
+	background-size: cover;
+	height: 18em;
+	margin-bottom: 13%;
+	
+}
+
+.pt-20 {
+	padding-top: 40%;
+}
+.pt-50 {
+	padding-top: 110%;
+}
+
+.ml-70{
+	margin-left: 80%;
+}
+
+.fuenteti {
+	font-size: 12px;
+}
+
+.ml-0 {
+	margin-left: -20%;
+}
+
+.fut {
+	background-image: url(../img/img_grid_especiales.jpg);
+	background-size: cover;
+	height: 18em;
+	
+}
+
+.fut3 {
+	background-image: url(../img/img_grid_especiales.jpg);
+	background-size: cover;
+	height: 12em;
+	background-repeat: no-repeat;
+}
+
+.fut2 {
+	background-image: url(../img/img_especiales.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 12em;
+}
+.viejo3 {
+	background-image: url(../img/img_especiales_aside.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 12em;
+}
+/*Columnistas*/
+.columnista{
+	display: block;
+	position: absolute;
+	margin-left: 40%;
+	margin-top: -5%;
+}
+
+.cuadrocol {
+	font-size: 16px;
+	padding: 1%;
+	width: 20%;
+	padding-left: 2%;
+}
+.blanco {
+	color: white;
+}
+.borderojo {
+	border: solid 2px #811101;
+}
+.marrio {
+	width: 10%;
+	height: 10%;
+}
+.redes {
+	width: 25%;
+	height: 25%;
+}
+
+.titular {
+	font-size: 3em;
+}
+
+/*Carrusel*/
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+}
+ 
+ /*articulos*/
+
+ .cuadro {
+ 	border: solid 1px #888;
+ 	width: 110%;
+ 	
+ }
+
+ .mb-10 {
+ 	margin-bottom: 10%;
+ }
+
+ .dared {
+ 	color: #811101;
+ }
+
+.mucha-muchacha {
+	width: 90%;
+	margin-left: 10%;
+}
+.ml-7{
+	margin-left: 7%;
+}
+
+.marrio {
+	width: 40%;
+	height: 40%;
+	margin: 10%;
+
+}
+/*SEGUNDA MITAD*/
+/*BACKGROUNDS*/
+#boletin{
+    background-image: url("../img/bg_trama_rayas.png");
+    background-repeat: repeat;
+    background-size: auto;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-whitetrans{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+#regimenlab{
+    background-image: url("../img/img_especiales_aside.jpg");
+}
+#cop20{
+    background-image: url("../img/img_especiales.jpg");
+}
+#concenmed{
+    background-image: url("../img/img_grid_secundario.jpg");
+}
+#especiesp{
+    background-image: url("../img/fotogaleria_col03_01.jpg");
+}
+/*General*/
+.aut{
+    width: auto;
+}
+.line{
+    border-bottom: .1em solid lightgray;
+}
+.border{
+    border: .1em solid lightgray;
+}
+.pb-1{
+    padding-bottom: 1%;
+}
+.btgray{
+    border-top: .3em solid #667885;
+}
+.btred{
+    border-top: .3em solid #B40606;
+}
+.bg-gray2{
+    background-color: #667885;
+}
+.pt-15e{
+    padding-top: 15em;
+}
+/*text*/
+.bluef{
+    color: #346799;
+    border-bottom: .1em solid #346799;
+}
+.bluet{
+    color: #55ACEE;
+    border-bottom: .1em solid #55ACEE;
+}
+.purple{
+    color: #872F85;
+}
+/*boletin*/
+#suscribe{
+    margin-top: -2em;
+}
+#boletin button{
+    width: 100%;
+}
+/*aweita*/
+.aweitape{
+    border-bottom: .4em solid purple;
+}
+.libpe{
+    border-bottom: .4em solid #B40606;
+}

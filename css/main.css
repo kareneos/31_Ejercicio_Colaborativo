@@ -1,0 +1,47 @@
+/*BACKGROUNDS*/
+.bg-red{
+    background-color: #B20000;
+}
+.bg-red-light{
+    background-color: #D90000;
+}
+.bg-red-dark{
+    background-color: #811101;
+}
+.bg-gray{
+    background-color: #F2F2F2;
+}
+.bg-black{
+    background-color: #0E0E0E;
+}
+/*COLOR TEXTO*/
+.gray2{
+    color: #667885;
+}
+.red{
+    color: #B40606;
+}
+
+.black {
+	color: black;
+}
+/*CLASES COLUMNISTAS*/
+.photo {
+	box-shadow: 0px 0px 5px #000; /* Sombra */
+	padding: 5px; /* Espacio entre la imagen y el borde */
+	background: #FFF; /* Color de fondo que se ve entre el espacio */
+}
+
+.div-blog {
+	margin: 2% 1%;
+	font-weight: bold;
+	padding: 2%;
+}
+
+.padding {
+	padding: 0 !important;
+}
+
+.white {
+	color: #FFF;
+}
